@@ -3,8 +3,9 @@
 
 <link rel="stylesheet" href="style.css" type="text/css">
   
-* **<span style="color:navy">Videos<span>**:
-  + PDW on Optimal Distinctiveness at AOM 2021 (Co-organized with [Eric Zhao](https://www.ericzhao.org) )
+* **<span style="color:navy">PDW on Optimal Distinctiveness at AOM 2021 (Co-organized with [Eric Zhao](https://www.ericzhao.org))<span>**:
+  + [Agenda](files/od/AOM_PDW_2021_OD_agenda.pdf)
+  + Video recording
 
 &nbsp;
 
