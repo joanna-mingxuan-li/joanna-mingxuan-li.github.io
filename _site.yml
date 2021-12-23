@@ -1,3 +1,4 @@
+
 name: "Joanna Li"
 output_dir: "."
 navbar:
@@ -15,11 +16,9 @@ navbar:
       href: about_me.html
 
   right:
-#    - icon: ai-cv ai-lg
-#     href: 
-    - icon: fab fa-linkedin fa-lg
+    - icon: fab fa-linkedin
       href: https://www.linkedin.com/in/joanna-mingxuan-li-1b5810b7/
-    - icon: fab fa-twitter fa-lg
+    - icon: fab fa-twitter
       href: https://twitter.com/Joannamxli
 output:
   html_document:
