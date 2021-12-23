@@ -1,0 +1,27 @@
+name: "Joanna Li"
+output_dir: "."
+navbar:
+  title: "Home"
+  left:
+#    - text: "Home"
+#      href: home.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Resource"
+      href: resource.html
+    - text: "About Me"
+      href: about_me.html
+
+  right:
+#    - icon: ai-cv ai-lg
+#     href: 
+    - icon: fab fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/joanna-mingxuan-li-1b5810b7/
+    - icon: fab fa-twitter fa-lg
+      href: https://twitter.com/Joannamxli
+output:
+  html_document:
+    theme: paper
+    css: 'style.css'

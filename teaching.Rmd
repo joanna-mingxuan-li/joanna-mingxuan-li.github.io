@@ -1,0 +1,9 @@
+---
+---
+
+<link rel="stylesheet" href="style.css" type="text/css">
+
+* **<span style="color:navy">As an independent instructor<span>**:
+
+  + J375 Strategic Management (Fall 2021) [[syllabus](files/course/Syllabus J375_Joanna Li Fall 2021.pdf)]
+

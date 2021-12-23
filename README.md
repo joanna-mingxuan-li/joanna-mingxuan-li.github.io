@@ -1,2 +1,1 @@
-# joanna-mingxuan-li.github.io
-Joanna's personal website
+# yanhao-wang.github.io
