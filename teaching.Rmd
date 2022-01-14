@@ -3,7 +3,17 @@
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-* **<span style="color:navy">As an independent instructor<span>**:
+**<span style="color:navy">Courses taught<span>**:
 
-  + J375 Strategic Management (Fall 2021) [[syllabus](files/course/Syllabus J375_Joanna Li Fall 2021.pdf)]
+  + Strategic Management for senior undergraduates, independent instructor, Indiana University Bloomington, Fall 2021 
+    + [Syllabus](files/course/Syllabus J375_Joanna Li Fall 2021.pdf)
+    + Teaching evaluation: 6.3/7.0
 
+&nbsp;
+
+**<span style="color:navy">Students' feedback<span>**:
+
+  + "Great class – Really enjoyed the real–world applications throughout the course. Joanna was very receptive to feedback and tweaked assignments and class goals based on feedback provided by students."
+  + "She was very responsive and willing to help anyone who needs it. Professor Joanna Li was an amazing professor and I am really glad I got to take her course."
+  + "I really like how engaging this course is, and how enthusiastic she wanted to make this class be."
+  + "I thought the professor was very enthusiastic, considerate, flexible, & invested in our learning. I also appreciated the structure of assignments, they were well spaced out & not overwhelming."
