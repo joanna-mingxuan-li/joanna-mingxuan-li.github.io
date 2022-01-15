@@ -1,6 +1,6 @@
 ---
 ---
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/solid.css" integrity="sha384-v2Tw72dyUXeU3y4aM2Y0tBJQkGfplr39mxZqlTBDUZAb9BGoC40+rdFCG0m10lXk" crossorigin="anonymous">
+<link href="site_libs/fontawesome-free-6.0.0-beta3-web/css/all.css" rel="stylesheet">
 
 <img src="images/AtOSU.JPG" style="width:30%; border:3px solid; margin-left: 20px; margin-right: 20px" align="right">
 
