@@ -19,7 +19,7 @@ navbar:
     - icon: fab fa-linkedin
       href: https://www.linkedin.com/in/joanna-mingxuan-li-1b5810b7/
     - icon: fab fa-twitter-square
-      href: https://twitter.com/Joannamingxuanli
+      href: https://twitter.com/Joannamingxuan
 output:
   html_document:
     theme: paper
