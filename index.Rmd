@@ -4,7 +4,7 @@
 
 <img src="images/AtOSU.JPG" style="width:30%; border:3px solid; margin-left: 20px; margin-right: 20px" align="right">
 
-<span style="color:Black; font-size: 20pt; font-family:'Lucida Sans'" >Joannna Mingxuan Li </span>    <span style="color:Black; font-size: 20pt; font-family:'SimYou'" >(李明璇)</span>
+<span style="color:Black; font-size: 20pt; font-family:'Lucida Sans'" >Joanna Mingxuan Li </span>    <span style="color:Black; font-size: 20pt; font-family:'SimYou'" >(李明璇)</span>
 
 
 Welcome!
