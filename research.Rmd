@@ -14,4 +14,4 @@
 <span style="color:grey" >For more work in progress and presentations, see my CV.</span>
 
 &nbsp;
-<iframe width="1000" height="500" src="files/cv/Joanna_Li_CV_08042022.pdf"></iframe>
+<iframe width="1000" height="500" src="files/cv/Joanna_Li_CV_01102023.pdf"></iframe>
