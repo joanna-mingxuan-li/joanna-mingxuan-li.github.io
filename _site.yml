@@ -3,6 +3,7 @@ name: "Joanna Li"
 output_dir: "."
 navbar:
   title: "Home"
+#  type: inverse
   left:
 #    - text: "Home"
 #      href: home.html
