@@ -3,9 +3,13 @@
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-**<span style="color:#4682b4; font-size: 13pt; font-family:'Arial'">Courses taught<span>**:
+&nbsp;
 
 &nbsp;
+
+&nbsp;
+
+**<span style="color:#4682b4; font-size: 13pt; font-family:'Arial'">Courses taught<span>**:
 
 <p style="color:#778899; font-size: 13pt; font-family:'Arial'">
   + Strategic Management for senior undergraduates, independent instructor, Indiana University Bloomington, Fall 2021 
