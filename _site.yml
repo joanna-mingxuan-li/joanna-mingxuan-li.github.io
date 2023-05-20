@@ -23,5 +23,5 @@ navbar:
       href: https://twitter.com/Joannamingxuan
 output:
   html_document:
-    theme: cosmo
+    theme: sandstone
     css: 'style.css'
