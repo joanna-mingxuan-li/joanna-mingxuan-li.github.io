@@ -3,11 +3,6 @@
 
 <link rel="stylesheet" href="style.css" type="text/css">
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 **<span style="color:#4682b4; font-size: 13pt; font-family:'Arial'">Courses taught<span>**:
 

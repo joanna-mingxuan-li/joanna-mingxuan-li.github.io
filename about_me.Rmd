@@ -3,11 +3,6 @@
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/solid.css" integrity="sha384-v2Tw72dyUXeU3y4aM2Y0tBJQkGfplr39mxZqlTBDUZAb9BGoC40+rdFCG0m10lXk" crossorigin="anonymous">
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 <p style="color:#778899; font-size: 13pt; font-family:'Arial'">
 Born and raised in Beijing, China, I lived in Shanghai for five years before moving to Bloomington, Indiana in 2019. I got my Bachelor's degree in accounting from [School of Management](https://www.fdsm.fudan.edu.cn/en/), [Fudan University](https://www.fudan.edu.cn/en/). During my time at the University, I participated in the student exchange program and spent a semester at [School of Business](https://www.albany.edu/business) at [University at Albany](https://www.albany.edu/).
