@@ -19,4 +19,4 @@ In this video, I talked about my early life experiences and my academic journey 
 
 <p tyle="color:#778899; font-size: 13pt; font-family:'Arial'">
 I have always enjoyed swimming and dancing in my spare time. Recently, I picked up running and I am obsessed with it!</p>
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/109393004/activity-summary/a752bee7ddeda1f3d54b07fc7e2a6920a3851fd2'></iframe>
+<iframe height='300' width='560' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/109393004/activity-summary/a752bee7ddeda1f3d54b07fc7e2a6920a3851fd2'></iframe>
