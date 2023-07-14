@@ -2,8 +2,9 @@
 ---
 <link href="site_libs/fontawesome-free-6.0.0-beta3-web/css/all.css" rel="stylesheet">
 
+&nbsp;
 
-<img src="images/Kelley.JPG" style="width:18%; border:0px solid; margin-left: 30px; margin-right: 20px；margin-top: 50px; object-fit: cover; border-radius: 80%;" align="right"  alt="Avatar">
+<img src="images/Kelley.JPG" style="width:18%; border:0px solid; margin-left: 30px; margin-right: 20px；margin-top: 90px; object-fit: cover; border-radius: 80%;" align="right"  alt="Avatar">
 
 
 <span style="color:Dimgrey; font-size: 18pt; font-family:'Verdana'" >Joanna Mingxuan Li </span>    <span style="color:Dimgrey; font-size: 18pt; font-family:'Verdana'" >李明璇</span>
@@ -16,6 +17,8 @@ Welcome!
 I am a Ph.D. candidate in Strategic Management and Organization Theory at the department of [Management and Entrepreneurship](https://kelley.iu.edu/faculty-research/departments/management-entrepreneurship/index.html), [Kelley School of Business](https://kelley.iu.edu/), [Indiana University Bloomington](https://indiana.edu/).
 
 My current research interest lies at the intersection of strategy and organization theory, with a particular focus on questions at the business-society interface. 
+
+I am on the Fall 2023 academic job market.
 
 You can contact me via [joli@iu.edu](joli@iu.edu)</p>
 
