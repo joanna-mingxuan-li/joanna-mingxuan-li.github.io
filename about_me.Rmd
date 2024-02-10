@@ -16,7 +16,20 @@ In this video, I talked about my early life experiences and my academic journey 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4hpoNYa2s5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 &nbsp;
+&nbsp;
+&nbsp;
 
 <p tyle="color:#778899; font-size: 13pt; font-family:'Arial'">
 I have always enjoyed swimming and dancing in my spare time. Recently, I picked up running and I am obsessed with it!</p>
+
+<figure>
+    <img src='images/HoosierHalf23.jpeg' style="width:200px; height:200px; margin-right: 30px" />
+    <img src='images/IndyMini23.jpeg' style="width:200px; height:200px; margin-right: 30px " />
+    <img src='images/HoosiersOutrunCancer23.jpeg' style="width:200px; height:200px; margin-right: 30px" />
+    <img src='images/Edmonton23.jpeg' style="width:200px; height:200px" />
+</figure>
+
+
+<span style="margin-left:2px;font-size: 6pt; font-family:'Arial'">Hoosier Half 10k (Bloomington, IN Apr, 2023)</span><span style="margin-left:65px;font-size: 6pt">Delta Dental 500 5K (Indianapolis, IN May, 2023)</span><span style="margin-left:55px;font-size: 6pt">Hoosiers Outrun Cancer 2023 5k (Bloomington, IN Sep, 2023)</span><span style="margin-left:35px;font-size: 6pt">Alberta Run the River 10k (Edmonton, AB Sep, 2023)</span>
+
 <iframe height='300' width='560' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/109393004/activity-summary/a752bee7ddeda1f3d54b07fc7e2a6920a3851fd2'></iframe>
