@@ -23,12 +23,20 @@ In this video, I talked about my early life experiences and my academic journey 
 I have always enjoyed swimming and dancing in my spare time. Recently, I picked up running and I am obsessed with it!</p>
 
 <figure>
-    <img src='images/HoosierHalf23.jpeg' style="width:200px; height:200px; margin-right: 30px" />
-    <img src='images/IndyMini23.jpeg' style="width:200px; height:200px; margin-right: 30px " />
-    <img src='images/HoosiersOutrunCancer23.jpeg' style="width:200px; height:200px; margin-right: 30px" />
-    <img src='images/Edmonton23.jpeg' style="width:200px; height:200px" />
+    <img src='images/HoosierHalf23.jpeg' style="width:240px; height:240px; margin-right: 30px" />
+    <img src='images/IndyMini23.jpeg' style="width:240px; height:240px; margin-right: 30px " />
+    <img src='images/HoosiersOutrunCancer23.jpeg' style="width:240px; height:240px; margin-right: 30px" />
 </figure>
 
 
-<span style="margin-left:2px;font-size: 6pt; font-family:'Arial'">Hoosier Half 10k (Bloomington, IN Apr, 2023)</span><span style="margin-left:65px;font-size: 6pt">Delta Dental 500 5K (Indianapolis, IN May, 2023)</span><span style="margin-left:55px;font-size: 6pt">Hoosiers Outrun Cancer 2023 5k (Bloomington, IN Sep, 2023)</span><span style="margin-left:35px;font-size: 6pt">Alberta Run the River 10k (Edmonton, AB Sep, 2023)</span>
+<span style="margin-left:2px;font-size: 8pt; font-family:'Arial'">Hoosier Half 10k (Bloomington, IN Apr, 2023)</span><span style="margin-left:65px;font-size: 8pt">Delta Dental 500 5K (Indianapolis, IN May, 2023)</span><span style="margin-left:35px;font-size: 8pt">Hoosiers Outrun Cancer 2023 5k (Bloomington, IN Sep, 2023)</span>
 
+&nbsp;
+
+</figure>
+    <img src='images/Edmonton23.jpeg' style="width:240px; height:240px; margin-right: 30px" />
+    <img src='images/IndyMini24.jpeg' style="width:240px; height:240px; margin-right: 30px" />
+</figure>
+
+<span style="margin-left:35px;font-size: 8pt">Alberta Run the River 10k (Edmonton, AB Sep, 2023)</span>
+<span style="margin-left:65px;font-size: 8pt">Indy 500 Festival Mini-Marathon (Indianapolis, IN May, 2024)</span>
