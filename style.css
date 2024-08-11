@@ -1,7 +1,10 @@
 /* Whole document: */
 body{
   font-family: Helvetica;
-  font-size: 13pt;
+  font-size: 12pt;
+  margin: 100px //find your best value
+  max-width: 8.5in;
+  padding: 1in 1in 1in 1in
 }
 /* Headers */
 h1,h2,h3,h4,h5,h6{
