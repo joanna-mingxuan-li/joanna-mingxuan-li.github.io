@@ -4,7 +4,7 @@
 
 &nbsp;
 
-<img src="images/Kelley.JPG" style="width:22%; border:0px solid; margin-left: 30px; margin-right: 20px；margin-top: 50px; object-fit: cover; border-radius: 80%;" align="right"  alt="Avatar">
+<img src="images/ASB.PNG" style="width:22%; border:0px solid; margin-left: 30px; margin-right: 20px；margin-top: 50px; object-fit: cover; border-radius: 80%;" align="right"  alt="Avatar">
 
 
 <span style="color:Dimgrey; font-size: 18pt; font-family:'Verdana'" >Joanna Mingxuan Li </span>    <span style="color:Dimgrey; font-size: 18pt; font-family:'Verdana'" >李明璇</span>
