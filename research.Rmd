@@ -18,4 +18,4 @@
 <p style="color:#778899; font-size: 13pt; font-family:'Arial'" >For more work in progress and presentations, see my CV.</p>
 
 &nbsp;
-<iframe width="1000" height="1000" src="files/cv/Joanna_Li_CV_202406.pdf"></iframe>
+<iframe width="1000" height="1000" src="files/cv/Joanna_Li_CV_202501_web.pdf"></iframe>
