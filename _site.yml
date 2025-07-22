@@ -6,12 +6,8 @@ navbar:
   left:
 #    - text: "Home"
 #      href: home.html
-    - text: "Research"
+    - text: "CV"
       href: research.html
-    - text: "Teaching"
-      href: teaching.html
-    - text: "Resource"
-      href: resource.html
     - text: "About Me"
       href: about_me.html
 
