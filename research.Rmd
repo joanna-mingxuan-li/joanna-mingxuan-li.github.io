@@ -12,4 +12,4 @@
 &nbsp;
 
 **<span style="color:#4682b4; font-size: 13pt; font-family:'Arial'">Working Paper <span>**
-<p style="color:#778899; font-size: 13pt; font-family:'Arial'"> Curating Inequality? Platform Intermediation and Gender Gaps in Music Streaming with Tomasz Obloj (avaliable at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5353383))
+<p style="color:#778899; font-size: 13pt; font-family:'Arial'"> &bull; Curating Inequality? Platform Intermediation and Gender Gaps in Music Streaming <br>&nbsp; with Tomasz Obloj (avaliable at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5353383))
