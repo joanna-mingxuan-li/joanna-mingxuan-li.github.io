@@ -6,7 +6,7 @@ navbar:
   left:
 #    - text: "Home"
 #      href: home.html
-    - text: "CV"
+    - text: "Research"
       href: research.html
     - text: "About Me"
       href: about_me.html

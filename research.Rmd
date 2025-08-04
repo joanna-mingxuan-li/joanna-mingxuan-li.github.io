@@ -4,4 +4,12 @@
 <link rel="stylesheet" href="style.css" type="text/css">
 
 &nbsp;
+
+**<span style="color:#4682b4; font-size: 13pt; font-family:'Arial'">Please find my CV below <span>**
+
 <iframe width="1000" height="1000" src="files/cv/Joanna_Li_CV_202506.pdf"></iframe>
+
+&nbsp;
+
+**<span style="color:#4682b4; font-size: 13pt; font-family:'Arial'">Working Paper <span>**
+<p style="color:#778899; font-size: 13pt; font-family:'Arial'"> Curating Inequality? Platform Intermediation and Gender Gaps in Music Streaming (avaliable at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5353383))
