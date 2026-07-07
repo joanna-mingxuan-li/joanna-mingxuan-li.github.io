@@ -1,18 +1,53 @@
-/* Whole document */
+/* ===== Layout: center the content column ===== */
 body{
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 12pt;
-  line-height: 1.55;
-  max-width: 8.5in;
-  padding: 1in;
+  margin: 0;
+  padding: 0;
+  background-color: #fdfdfd;
 }
 
-/* Headers */
+.main-container,
+.container-fluid.main-container{
+  max-width: 880px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding: 30px 30px 80px 30px;
+  float: none !important;
+}
+
+/* ===== Typography: one font family, consistent sizes =====
+   Pages carry old inline styles (Arial 13pt, Verdana 18pt...);
+   the !important rules below neutralize them site-wide. */
+body, p, li, div, a, strong, em, h1, h2, h3, h4, h5, h6,
+span:not([class*="fa"]):not([class*="glyphicon"]){
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+p, li{
+  font-size: 16px !important;
+  line-height: 1.7;
+  color: #4a5560 !important;
+}
+
 h1,h2,h3,h4,h5,h6{
-  font-size: 18pt;
+  font-size: 20px;
+  color: #4682b4;
 }
 
-/* Links: subtle color shift on hover instead of default underline jump */
+/* Section headings (blue bold spans on Research/About pages) */
+strong span[style*="4682b4"]{
+  font-size: 19px !important;
+  color: #4682b4 !important;
+  letter-spacing: 0.3px;
+}
+
+/* Name on the home page (old 18pt Verdana spans) */
+span[style*="18pt"]{
+  font-size: 27px !important;
+  color: #333 !important;
+  font-weight: 600;
+}
+
+/* ===== Links ===== */
 a{
   color: #4682b4;
 }
@@ -20,7 +55,18 @@ a:hover{
   color: #2c5d8a;
 }
 
-/* Images: soften edges slightly */
+/* ===== Embedded CV: fill the column instead of fixed 1000px ===== */
+iframe{
+  width: 100% !important;
+  max-width: 100%;
+  height: 1100px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+/* ===== Images ===== */
 img{
   border-radius: 4px;
+  max-width: 100%;
+  height: auto;
 }
