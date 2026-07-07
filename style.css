@@ -23,28 +23,31 @@ span:not([class*="fa"]):not([class*="glyphicon"]){
 }
 
 p, li{
-  font-size: 16px !important;
+  font-size: 15px !important;
   line-height: 1.7;
   color: #4a5560 !important;
 }
 
 h1,h2,h3,h4,h5,h6{
-  font-size: 20px;
+  font-size: 19px;
   color: #4682b4;
 }
 
 /* Section headings (blue bold spans on Research/About pages) */
 strong span[style*="4682b4"]{
-  font-size: 19px !important;
+  font-size: 17px !important;
   color: #4682b4 !important;
   letter-spacing: 0.3px;
 }
 
-/* Name on the home page (old 18pt Verdana spans) */
+/* Name on the home page (old 18pt Verdana spans):
+   serif, regular weight — elegant rather than bold */
 span[style*="18pt"]{
-  font-size: 27px !important;
-  color: #333 !important;
-  font-weight: 600;
+  font-family: Georgia, "Times New Roman", serif !important;
+  font-size: 28px !important;
+  color: #2f3b45 !important;
+  font-weight: 400;
+  letter-spacing: 0.5px;
 }
 
 /* ===== Links ===== */
