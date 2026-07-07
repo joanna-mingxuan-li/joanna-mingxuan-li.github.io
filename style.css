@@ -1,12 +1,26 @@
-/* Whole document: */
+/* Whole document */
 body{
-  font-family: Helvetica;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 12pt;
-  margin: 100px //find your best value
+  line-height: 1.55;
   max-width: 8.5in;
-  padding: 1in 1in 1in 1in
+  padding: 1in;
 }
+
 /* Headers */
 h1,h2,h3,h4,h5,h6{
   font-size: 18pt;
+}
+
+/* Links: subtle color shift on hover instead of default underline jump */
+a{
+  color: #4682b4;
+}
+a:hover{
+  color: #2c5d8a;
+}
+
+/* Images: soften edges slightly */
+img{
+  border-radius: 4px;
 }
